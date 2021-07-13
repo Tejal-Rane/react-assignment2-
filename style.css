@@ -1,0 +1,23 @@
+button{
+    text-align: center;
+    margin-right: 12px;
+    font-size: 25px;
+    box-shadow: 5px 15px 10px #686868;
+    border-radius:12px;
+    background-image: linear-gradient(to right,rgb(255, 210, 8), rgb(237, 250, 161));
+}
+body{
+    height: 600px;
+    background-image: linear-gradient(to right,rgb(17, 218, 147), rgb(206, 255, 253));
+    text-align: center;
+    border-style: dotted;
+    border-width:  5px;
+}
+h1{
+    font-size: 50px;
+}
+h4{
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 8, 8);
+}
